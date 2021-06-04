@@ -12,7 +12,7 @@ variables:
   # azureSubscription: '67990455-6820-40b4-a9a3-5663aa32445a'
   # azureSubscription: 'ae127aa8-f47b-4e72-9404-c32a19c6d6c4'
   # azureSubscription: 'b605a182-88e3-49ea-b92d-858d66bf8134'
-  azureSubscription: '00000040-0000-8888-8000-000000000000'
+  azureSubscription: 'ae127aa8-f47b-4e72-9404-c32a19c6d6c4'
 
   # Web app name
   webAppName: 'bashkou-app-name'
