@@ -15,7 +15,7 @@ variables:
   webAppName: 'bashkou-app-name'
 
   # Environment name
-  environmentName: 'bashkou-app-name'
+  environmentName: 'env-build'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
